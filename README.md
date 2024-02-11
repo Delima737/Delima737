@@ -30,7 +30,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/C2A67U34X57P"> <img align="center" width="30%"  src="https://mwcc.edu/wp-content/uploads/2020/09/Google-IT-Professional-Certificate-Logo.png"></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/C2A67U34X57P"> <img align="center" width="45%"  src="https://mwcc.edu/wp-content/uploads/2020/09/Google-IT-Professional-Certificate-Logo.png"></a>
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Delima737&theme=great-gatsby)](https://github.com/Delima737/github-readme-stats)
@@ -39,4 +39,4 @@
 
 
 <br>
-<img align="right" width="150" height="150" src="https://m1.behance.net/rendition/modules/98984487/disp/777fb9a87154b06c4433515ee841d61a.gif">
+<img align="right" width="30%" src="https://m1.behance.net/rendition/modules/98984487/disp/777fb9a87154b06c4433515ee841d61a.gif">

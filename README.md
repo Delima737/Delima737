@@ -1,4 +1,5 @@
-<img align="right" width="300" height="200" src="https://cdn.dribbble.com/users/1172342/screenshots/2742630/media/167feffe94b4bace37a25e4b3284d6da.gif">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Delima737&label=Profile%20views&color=129e00&style=plastic" alt="Delima737" /> </p>
+ <img align="right" width="300" height="200" src="https://cdn.dribbble.com/users/1172342/screenshots/2742630/media/167feffe94b4bace37a25e4b3284d6da.gif">
 <h1>Olá Mundo!!! Eu sou Lucas Lima </h1>
 
 [![Linkedin: Lucas Lima ](https://img.shields.io/badge/-Delima737-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delima99//)](https://www.linkedin.com/in/delima99/) ![GitHub followers](https://img.shields.io/github/followers/Delima737?label=Follow&style=social)
